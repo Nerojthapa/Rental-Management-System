@@ -4,10 +4,10 @@ import { Container } from 'react-bootstrap';
 
 function HomeScreen() {
 
-
+hello
 const [products,serProducts]=useState([])
 
-useEffect(()==>{
+useE{
   console.log(1);
   
 

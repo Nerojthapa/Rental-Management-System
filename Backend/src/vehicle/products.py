@@ -1,0 +1,20 @@
+products = [
+{
+    "_id":1,
+    "name":"cam",
+    "category":"ele",
+    "price":12
+},
+{
+    "_id":2,
+    "name":"lap",
+    "category":"ele",
+    "price":122
+},
+{
+    "_id":3,
+    "name":"phone",
+    "category":"ele",
+    "price":123
+}
+]
